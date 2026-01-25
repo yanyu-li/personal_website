@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+## Themes
+
+### Speech timing and rhythm
+
+I study how segments and syllables coordinate in time and how rhythm emerges from speech production and perception.
+
+### Prosody and intonation
+
+My work examines how pitch patterns interact with duration and intensity to mark prominence and structure.
+
+### Experimental phonology
+
+I use production and perception experiments to test models of timing, rhythm, and prosodic encoding.
+
+### Computational modeling
+
+I build statistical and dynamical models to connect surface patterns with underlying representations.
+
+## Projects
+
+- **Project A:** Brief description of the research question and approach.
+- **Project B:** Brief description of the research question and approach.
+- **Project C:** Brief description of the research question and approach.

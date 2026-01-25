@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=Work+Sans:wght@400;600&display=swap");
+
+:root {
+  --ink: #1b1c1e;
+  --muted: #5a6166;
+  --accent: #0f6b6f;
+  --accent-soft: #d9eceb;
+  --bg: #f7f5f2;
+  --card: #ffffff;
+  --border: #e5e2dc;
+}
+
+body {
+  background: linear-gradient(180deg, #f7f5f2 0%, #f1efe9 100%);
+  color: var(--ink);
+  font-family: "Spectral", "Georgia", serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Work Sans", "Helvetica", sans-serif;
+  letter-spacing: 0.2px;
+}
+
+a {
+  color: var(--accent);
+}
+
+.navbar, .navbar-dark {
+  background-color: transparent !important;
+  border-bottom: 1px solid var(--border);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 2rem;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 2rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.05);
+}
+
+.hero img {
+  border-radius: 16px;
+  border: 1px solid var(--border);
+}
+
+.hero-text ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.hero-text ul li {
+  margin-bottom: 0.35rem;
+}
+
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+}

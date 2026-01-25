@@ -1,0 +1,16 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+- Your Name. 2026. *Article title*. Journal Name.
+- Your Name and Coauthor. 2025. *Article title*. Journal Name.
+
+## Conference papers
+
+- Your Name. 2025. *Paper title*. Proceedings Name.
+
+## Preprints
+
+- Your Name. 2024. *Preprint title*. arXiv:xxxx.xxxxx.

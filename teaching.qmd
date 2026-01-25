@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+- **Course Name (2026):** Short description of the course.
+- **Course Name (2025):** Short description of the course.
+
+## Supervision
+
+- PhD Student Name (topic)
+- MA Student Name (topic)

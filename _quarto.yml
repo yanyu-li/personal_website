@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yanyu Li"
+  description: "Speech perception | Prosody | R Stats"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "Copyright 2026, Your Name"
+    right:
+      - text: "GitHub"
+        href: "https://github.com/yanyuulii"
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=gXpRx9UAAAAJ&hl=en"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

@@ -1,0 +1,57 @@
+---
+title: "Dr Yanyu Li"
+subtitle: "Speech and Language Sciences | Newcastle University"
+image: "assets/img/portrait-placeholder.jpg"
+image-alt: "Portrait"
+page-layout: full
+---
+
+<div class="hero">
+
+::: {.hero-text}
+
+I have a real passion understanding how human brains decode information during speech perception. For example, how are the rich and complex acoustic signals interpreted by the brain as meaningful phonetic cues? What’s the relationship between acoustic cues and emotional prosody in speech processing? My PhD project, completed recently at Newcastle University in December 2025, focuses on the relationship between acoustic cues and phonetic learning. This project explores the learning processes in second language (L2) acquisition related to selective attention and cue weighting. 
+
+🖥️ I have a special interest in using experimental methods in research, proficient in designing experiments and recruiting participants via various platforms including Gorilla, PsychoPy, Prolific, Sona, etc. 
+
+📊 I am also highly skilled in organising, analysing, and reporting large speech data using R, Praat and LaTeX. I have a big enthusiasm in quantitative data analysis in R, using both frequentist and Bayesian approaches such as mixed-effect regression modelling, and other statistical analyses including factor analysis (e.g., multidimensional scaling) and classification analysis (e.g., random forest).
+
+🧾 I possess excellent written and communication skills which enables me to engage effectively with a wide range of audiences. I have presented my various research projects at a number of peer-reviewed conferences, as well as submitted my research work to high-impact academic journals. I have also assisted organisation of open-science events to disseminate research findings to the public. Demonstrating my proficiency with technology, I am responsible for editing the research website for the Phonetics and Phonology Research Group at Newcastle University.
+
+- **Email:** y.li218@newcastle.ac.uk
+- **Office:** King George VI, Speech and Language Sciences, School of Education, Communication, and Language Sciences, Newcastle University, Newcastle Upon Tyne, United Kingdom, NE3 3AP
+- **CV:** [Download PDF](assets/cv.pdf)
+
+:::
+
+::: {.hero-image}
+
+![](assets/img/portrait-placeholder.jpg)
+
+:::
+
+</div>
+
+## Research focus
+
+My work investigates how listeners decode prosodic information through acoustic cues. I focus on:
+
+- **Prosody and L2 acquisition**
+- **Emotional prosody and speech perception**
+- **Experimental psychology**
+
+[Read more about my research](research.qmd)
+
+## Selected publications
+
+- Your Name. 2026. *Title of a key paper*. Journal Name.
+- Your Name and Coauthor. 2025. *Another paper*. Journal Name.
+- Your Name. 2024. *Conference proceedings paper*. Proceedings Name.
+
+[Full publication list](publications.qmd)
+
+## News
+
+- **April 2026:** Talk at British Association of Academic Phoneticians
+- **March 2026:** Talk at Experimental Psychology Society annual meeting 
+- **Jun 2025:** Poster at Phonetics and Phonology in Europe (PaPE)

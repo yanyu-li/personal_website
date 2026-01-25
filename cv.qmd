@@ -1,0 +1,15 @@
+---
+title: "CV"
+---
+
+You can download my CV here: [assets/cv.pdf](assets/cv.pdf)
+
+## Education
+
+- PhD in Linguistics, University, Year
+- MA in Linguistics, University, Year
+
+## Appointments
+
+- 2024-present: Position, University
+- 2020-2024: Position, University
