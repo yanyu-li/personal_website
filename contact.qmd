@@ -3,6 +3,7 @@ title: "Contact"
 ---
 
 - **Email:** y.li218@newcastle.ac.uk
-- **Office:** King George VI, Speech and Language Sciences
-- **Address:** School of Education, Comuunication and Language Sciences, Newcastle University, Newcastle Upon Tyne, United Kingdom, NE3 3AP
+
+- **Address:** King George VI, Speech and Language Sciences, School of Education, Comuunication and Language Sciences, Newcastle University, Newcastle Upon Tyne, United Kingdom, NE3 3AP
+
 - **Profiles:** [GitHub](https://github.com/yanyuulii), [ORCID](https://orcid.org/0009-0007-2712-5523), [Google Scholar](https://scholar.google.com/citations?user=gXpRx9UAAAAJ&hl=en)

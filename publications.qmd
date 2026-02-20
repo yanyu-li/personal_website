@@ -4,13 +4,18 @@ title: "Publications"
 
 ## Journal articles
 
-- Your Name. 2026. *Article title*. Journal Name.
-- Your Name and Coauthor. 2025. *Article title*. Journal Name.
+- Coretta, S., Casillas, J. V., …, Li, Y, ... & Wood, A. (2023). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses. *Advances in Methods and Practices in Psychological Science*, 6(3). 
 
-## Conference papers
+- Chen, S., Li, Y., Arche, M.J., Monks, C.P., & White L. (third-round revision, Studies in Second Language Acquisition). *Teaching Mandarin tones to English speakers via intonational analogy*.
 
-- Your Name. 2025. *Paper title*. Proceedings Name.
+- Li, Y., Hoogland, D., Duncan, D., & Zhang, C. (first-round revision, *Linguistic Vanguard*). Gamification in Phonetic Data Collection: Accent Recognition of Northeast England Regions.
 
-## Preprints
+- Li, Y., White, L., & Khattab, G. (submitted to Bilingualism: *Language and Cognition*). The Effect of Incremental Cue Training in Phonetic Learning of Lexical Tones.
 
-- Your Name. 2024. *Preprint title*. arXiv:xxxx.xxxxx.
+- Li, Y., White, L., & Khattab, G. (in preparation). The Effect of Incrementally Reducing Cue Exaggeration: an Extended Training in Phonetic Learning of Lexical Tones.
+
+
+## Conference proceedings
+
+- Li, Y., White, L., & Khattab, G. (2023). Incremental cue training: a study of lexical tone learning by non-tonal listeners. *In Proceedings of the 20th International Congress of Phonetic Sciences–ICPhS 2023*.
+

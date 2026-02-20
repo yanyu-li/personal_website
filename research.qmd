@@ -4,21 +4,29 @@ title: "Research"
 
 ## Themes
 
-### Speech timing and rhythm
+My research interests span a range of topics within psycholinguistics, although the main focus is on the study of speech sounds, and in particular speech perception, from a variety of intersecting perspectives, including:
+
+- Auditory processing, e.g., categorisation.
+- The relationship between acoustics and higher levels representation, e.g., acoustic-phonetic mapping, acoustics-emotion mapping.
+- Learning mechanisms, e.g., statistical learning.
+- Language acquisition, including L1 and L2 acquisition.  
+
+
+### Auditory processing
+
+
+### Second Language (L2) acquisition
 
 I study how segments and syllables coordinate in time and how rhythm emerges from speech production and perception.
 
-### Prosody and intonation
+### Speech perception
 
-My work examines how pitch patterns interact with duration and intensity to mark prominence and structure.
+My work examines how listeners decode and learn prosodic information through acoustic cues. 
 
-### Experimental phonology
+### Research methods
 
-I use production and perception experiments to test models of timing, rhythm, and prosodic encoding.
+I use experimental and quantitative methods to investigate 
 
-### Computational modeling
-
-I build statistical and dynamical models to connect surface patterns with underlying representations.
 
 ## Projects
 
