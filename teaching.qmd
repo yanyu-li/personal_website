@@ -2,12 +2,19 @@
 title: "Teaching"
 ---
 
-## Courses
+## Teaching experience
 
-- **Course Name (2026):** Short description of the course.
-- **Course Name (2025):** Short description of the course.
+Tutor: experimental methods related, Newcastle University
+- Key modules: Quantitative Data Analysis in R, Phonetics I and II, Language variation & change: dealing with data.
+- Developed lab materials and led tutorials using relevant tools including R and PRAAT. Marked assignments. 
 
-## Supervision
 
-- PhD Student Name (topic)
-- MA Student Name (topic)
+Teaching Assistant, Newcastle University
+- Key modules: Phonetics I and II (school of ECLS), Phonetics & Phonology (school of SELLL)
+- Provided phonetic ear training of the IPA chart. 
+- Marked assignments and arranged one-to-one student consultation hours.
+Guixue, Language School	
+- Developed course content and led 4 modules for IELTS. Improved students’ scores on average from 4.5 – 6.
+
+
+
