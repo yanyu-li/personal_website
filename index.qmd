@@ -1,57 +1,69 @@
 ---
-title: "Dr Yanyu Li"
-subtitle: "Speech and Language Sciences | Newcastle University"
-image: "assets/img/portrait-placeholder.jpg"
-image-alt: "Portrait"
-page-layout: full
+title: "Yanyu Li"
+image: "/assets/img/portrait1.jpg"
+about:
+  template: jolla
+  id: hero-heading
+  image-shape: round
+  image-width: 15em
+  links:
+  - icon: LinkedIn
+    text: LinkedIn
+    href: https://twitter.com/
+  - icon: Twitter
+    text: Twitter
+    href: https://twitter.com/
+  - icon: GitHub
+    text: Github
+    href: https://github.com/
+  - icon: Email
+    text: Email
+    href: y.li218@newcastle.ac.uk
 ---
 
-<div class="hero">
-
-::: {.hero-text}
-
-I have a real passion understanding how human brains decode information during speech perception. For example, how are the rich and complex acoustic signals interpreted by the brain as meaningful phonetic cues? What’s the relationship between acoustic cues and emotional prosody in speech processing? My PhD project, completed recently at Newcastle University in December 2025, focuses on the relationship between acoustic cues and phonetic learning. This project explores the learning processes in second language (L2) acquisition related to selective attention and cue weighting. 
-
-🖥️ I have a special interest in using experimental methods in research, proficient in designing experiments and recruiting participants via various platforms including Gorilla, PsychoPy, Prolific, Sona, etc. 
-
-📊 I am also highly skilled in organising, analysing, and reporting large speech data using R, Praat and LaTeX. I have a big enthusiasm in quantitative data analysis in R, using both frequentist and Bayesian approaches such as mixed-effect regression modelling, and other statistical analyses including factor analysis (e.g., multidimensional scaling) and classification analysis (e.g., random forest).
-
-🧾 I possess excellent written and communication skills which enables me to engage effectively with a wide range of audiences. I have presented my various research projects at a number of peer-reviewed conferences, as well as submitted my research work to high-impact academic journals. I have also assisted organisation of open-science events to disseminate research findings to the public. Demonstrating my proficiency with technology, I am responsible for editing the research website for the Phonetics and Phonology Research Group at Newcastle University.
-
-- **Email:** y.li218@newcastle.ac.uk
-- **Office:** King George VI, Speech and Language Sciences, School of Education, Communication, and Language Sciences, Newcastle University, Newcastle Upon Tyne, United Kingdom, NE3 3AP
-- **CV:** [Download PDF](assets/cv.pdf)
-
+::: {#hero-heading}
+PhD Speech and Language Sciences\
+Newcastle University
 :::
 
-::: {.hero-image}
+I am at the end of my PhD in the department of Speech and Language Sciences (SLS) at Newcastle University (UK). Currently, I am also covering the lectures on Advanced Statistics for SLS Stage 3 Research Methods. I completed my PhD thesis in October 2025, investigating the relationship between acoustic cues and phonetic learning in adult second language (L2) acquisition. Specifically, I tested the effect of a cue-weighting-approach intervention in the perceptual learning of non-native lexical tones based on selective attention theories.
 
-![](assets/img/portrait-placeholder.jpg)
+More broadly, I am interested in understanding how human brains decode the rich and complex speech signals to access information. For example, how are acoustic signals from different speakers in various contexts perceived and processed by the brain as meaningful units, such as speech sounds or emotion? What are the relationships between these diverse acoustic dimensions —— are some weighted more than others for effective processing? If there is an underlying rule for cue weighting, is it relatively stable across different tasks, stages, and conditions? What factors contribute to this rule, and how does it affect learning and other life applications such as in medical treatment and aging?
 
-:::
+I have a real passion in using experimental and quantitative methods, including both behavioural and neurological methods. I also encourage open and reproducible research workflow.
 
-</div>
+Read more in my CV [here](assets/cv.pdf)
 
-## Research focus
+\
+\
 
-My work investigates how listeners decode prosodic information through acoustic cues. I focus on:
+::::: {layout-ncol="2"}
+<div>
 
-- **Prosody and L2 acquisition**
-- **Emotional prosody and speech perception**
-- **Experimental psychology**
+**Research interests**
+
+My work investigates the role of acoustic cues in speech perception, emotion perception. I focus on:
+
+-   Speech perception
+-   Second Language (L2) acquisitioin
+-   Emotional prosody
+-   Experimental psychology
 
 [Read more about my research](research.qmd)
 
-## Selected publications
+</div>
 
-- Your Name. 2026. *Title of a key paper*. Journal Name.
-- Your Name and Coauthor. 2025. *Another paper*. Journal Name.
-- Your Name. 2024. *Conference proceedings paper*. Proceedings Name.
+<div>
 
-[Full publication list](publications.qmd)
+**Education**
 
-## News
+-   DPhil in Speech and Language Sciences, 2021-2025 [Newcastle University]{.edu-school}
 
-- **April 2026:** Talk at British Association of Academic Phoneticians
-- **March 2026:** Talk at Experimental Psychology Society annual meeting 
-- **Jun 2025:** Poster at Phonetics and Phonology in Europe (PaPE)
+-   MA (Distinction) in Linguistics, 2019-2020 [The University of Manchester]{.edu-school}
+
+-   BA Hons in English Literature and Language, 2015-2019 [Donghua University]{.edu-school}
+
+-   Exchange programme, Lingnan University, HK, 2018 [Lingnan University, HK]{.edu-school}
+
+</div>
+:::::
