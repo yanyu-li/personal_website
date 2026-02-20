@@ -4,10 +4,10 @@ project:
 
 website:
   title: "Yanyu Li"
-  description: "Speech perception | Prosody | R Stats"
+  description: "Speech perception | Prosody | Experimental methods"
   navbar:
     left:
-      - text: "Home"
+      - text: "Welcome"
         href: index.qmd
       - text: "Research"
         href: research.qmd
@@ -20,7 +20,7 @@ website:
       - text: "Contact"
         href: contact.qmd
   page-footer:
-    left: "Copyright 2026, Your Name"
+    left: "Copyright 2026, Yanyu Li"
     right:
       - text: "GitHub"
         href: "https://github.com/yanyuulii"
@@ -29,6 +29,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    smooth-scroll: true
+    respect-user-color-scheme: true
+    theme: 
+      light: Flatly
+      dark:  Darkly
     toc: false
