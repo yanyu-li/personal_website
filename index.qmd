@@ -1,6 +1,6 @@
 ---
 title: "Yanyu Li"
-image: "/assets/img/portrait1.jpg"
+image: "portrait1.jpg"
 about:
   template: jolla
   id: hero-heading
