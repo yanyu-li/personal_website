@@ -12,18 +12,17 @@ Key modules include:
 - Quantitative Data Analysis in R
 - Phonetics I and II, Language variation & change: dealing with data.
 
-where I mainly developed lab materials and led tutorials using relevant tools including R and Praat. I also marked assignments at the end of the terms. 
+where I mainly developed lab materials and led tutorials using relevant tools including R and Praat. I also marked assignments at the end of each term. 
 
 
 ## Phonetics & phonology related
 
 Key modules include:
-  - Phonetics I and II (school of ECLS)
-  - Phonetics & Phonology (school of SELLL)
 
-where I mainly:
- - provided phonetic ear training of the IPA chart. 
- - Marked assignments and arranged one-to-one student consultation hours.
+- Phonetics I and II (school of ECLS)
+- Phonetics & Phonology (school of SELLL)
+
+where I mainly provided phonetic ear training of the IPA chart, marked assignments, and arranged one-to-one student consultation hours.
 
 ## Language school
 
