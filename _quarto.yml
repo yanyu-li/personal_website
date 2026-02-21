@@ -29,6 +29,7 @@ format:
   html:
     smooth-scroll: true
     respect-user-color-scheme: true
+    include-after-body: assets/theme-toggle-fix.js
     theme: 
       light: Flatly
       dark:  Darkly
