@@ -7,23 +7,25 @@ about:
   image-shape: round
   image-width: 15em
   links:
-  - icon: LinkedIn
-    text: LinkedIn
-    href: https://twitter.com/
-  - icon: Twitter
-    text: Twitter
-    href: https://twitter.com/
+  - text: LinkedIn
+    href: www.linkedin.com/in/yanyu-li-page
+  - icon: Bluesky
+    text: Bluesky
+    href: https://bsky.app/profile/yanyuniverse.bsky.social
   - icon: GitHub
     text: Github
-    href: https://github.com/
-  - icon: Email
-    text: Email
-    href: y.li218@newcastle.ac.uk
+    href: https://github.com/yanyu-li
+  - icon: ORCID
+    text: ORCID
+    href: https://orcid.org/0009-0007-2712-5523
 ---
 
 ::: {#hero-heading}
-PhD Speech and Language Sciences\
-Newcastle University
+<div style="text-align:center;">
+| PhD Speech and Language Sciences
+| Newcastle University
+| [y.li218\@newcastle.ac.uk](mailto:y.li218@newcastle.ac.uk){.email}
+</div>
 :::
 
 I am at the end of my PhD in the department of Speech and Language Sciences (SLS) at Newcastle University (UK). Currently, I am also covering the lectures on Advanced Statistics for SLS Stage 3 Research Methods. I completed my PhD thesis in October 2025, investigating the relationship between acoustic cues and phonetic learning in adult second language (L2) acquisition. Specifically, I tested the effect of a cue-weighting-approach intervention in the perceptual learning of non-native lexical tones based on selective attention theories.
@@ -34,7 +36,6 @@ I have a real passion in using experimental and quantitative methods, including 
 
 Read more in my CV [here](assets/cv.pdf)
 
-\
 \
 
 ::::: {layout-ncol="2"}
@@ -67,3 +68,17 @@ My work investigates the role of acoustic cues in speech perception, emotion per
 
 </div>
 :::::
+
+\
+
+:::{.callout-tip title="More about me" appearance="simple" icon=false}
+Aside from my life as a researcher, I am made of many other quiet and restless parts. I recharge on the climbing wall, fingers dusted with chalk, and on the badminton court, where movement becomes a kind of meditation. In the woods, especially among tall trees and filtered light, I find a different rhythm. I could spend an entire day there, hidden among branches and birdsong, watching small lives unfold in silence. My heart also has a gentle spot for seagulls and pigeons. I am always struck by their quiet intelligence and effortless grace.
+
+My hobbies live in gentle contrast. Some days, I take a book and board a train to a place I have never seen before, letting curiosity choose the destination. Other mornings, I linger in the kitchen, improvising flavours, or sit with my guitar, following whatever melody arrives.
+
+At the heart of it all is a simple impulse: a genuine curiosity about the world. I want to experience more, understand more, and remain open to whatever the next page, path, or song might bring.
+
+:::
+
+
+

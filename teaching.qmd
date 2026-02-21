@@ -1,20 +1,33 @@
----
-title: "Teaching"
----
+# Course
 
-## Teaching experience
+I am currently covering the lectures on Advanced Statistics for the module Research Methods in Practice III - SPE3056 for Speech and Language Sciences Stage 3 students. 
 
-Tutor: experimental methods related, Newcastle University
-- Key modules: Quantitative Data Analysis in R, Phonetics I and II, Language variation & change: dealing with data.
-- Developed lab materials and led tutorials using relevant tools including R and PRAAT. Marked assignments. 
+# Past teaching
+During my PhD, I have been mainly leading undergraduate/postgraduate seminars on courses related to phonetics and phonology, and leading workshops on statistics and quantitative analysis at Newcastle University. 
+
+## Experimental methods related
+
+Key modules include:
+
+- Quantitative Data Analysis in R
+- Phonetics I and II, Language variation & change: dealing with data.
+
+where I mainly developed lab materials and led tutorials using relevant tools including R and PRAAT. Marked assignments. 
 
 
-Teaching Assistant, Newcastle University
-- Key modules: Phonetics I and II (school of ECLS), Phonetics & Phonology (school of SELLL)
-- Provided phonetic ear training of the IPA chart. 
+## Phonetics & phonology related
+
+Key modules include:
+  - Phonetics I and II (school of ECLS)
+  - Phonetics & Phonology (school of SELLL)
+
+where I mainly:
+- provided phonetic ear training of the IPA chart. 
 - Marked assignments and arranged one-to-one student consultation hours.
-Guixue, Language School	
-- Developed course content and led 4 modules for IELTS. Improved students’ scores on average from 4.5 – 6.
+
+## Language school
+
+I also worked as a lecturer and course designer at a language school called Guixue in Zhengzhou, China, where I developed course content and led 4 modules for IELTS. Improved students’ scores on average from 4.5 – 6.
 
 
 

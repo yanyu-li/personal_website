@@ -2,15 +2,6 @@
 title: "CV"
 ---
 
-You can download my CV here: [assets/cv.pdf](assets/cv.pdf)
+You can view or download my CV [here](assets/cv.pdf)
 
-## Education
 
-- PhD Speech and Language Sciences, Newcastle University, Sep. 2021 – Dec. 2025
-- M.A. Linguistics, The University of Manchester, Sep. 2019 – Dec. 2020
-- B.A. English Literature and Language, Donghua University, Sep. 2015 – Jun. 2019
-
-## Appointments
-
-- 2022-present: Teaching Assistant, Newcastle University
-- Jul. - Sep. 2025: Newcastle LingLab manager, Newcastle University

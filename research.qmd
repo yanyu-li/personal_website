@@ -1,35 +1,28 @@
----
-title: "Research"
----
+# Themes
 
-## Themes
+My research interests span a range of topics within psycholinguistics, mainly using experimental methods including both behavioural and neurological methods. My main focus is on the study of speech sounds, in particular speech perception, from a variety of intersecting perspectives, including:
 
-My research interests span a range of topics within psycholinguistics, although the main focus is on the study of speech sounds, and in particular speech perception, from a variety of intersecting perspectives, including:
-
-- Auditory processing, e.g., categorisation.
-- The relationship between acoustics and higher levels representation, e.g., acoustic-phonetic mapping, acoustics-emotion mapping.
+- Auditory processing and linguistic experience, e.g., categorisation.
+- The relationship between acoustics and higher-level mental representation, e.g., acoustic-phonetic mapping, emotion recognition etc.
 - Learning mechanisms, e.g., statistical learning.
 - Language acquisition, including L1 and L2 acquisition.  
 
 
-### Auditory processing
+# Current projects
+
+::: {.callout-note title="Gamification in perceptual dialectology" icon=false}
+This project demonstrates that audio-based gamified tasks (e.g., points, leaderboards, and rewards) can effectively replace traditional incentives in phonetic perception research, showing that North East England listeners struggle to accurately distinguish local dialects despite strong folk beliefs about fine-grained regional differences. 
+:::
+
+# Past projects
+
+::: {.callout-note title="Many speech analysis" icon=false}
+The [*Many Speech Analyses*](https://osf.io/3bmcp/overview) project set out to quantify the analytic flexibility in the speech sciences and explored how it affects our scientific conclusions.
+To that end, the main organisers asked speech researchers to analyse the same data set in order to answer the same research question.
+
+:::
 
 
-### Second Language (L2) acquisition
-
-I study how segments and syllables coordinate in time and how rhythm emerges from speech production and perception.
-
-### Speech perception
-
-My work examines how listeners decode and learn prosodic information through acoustic cues. 
-
-### Research methods
-
-I use experimental and quantitative methods to investigate 
 
 
-## Projects
 
-- **Project A:** Brief description of the research question and approach.
-- **Project B:** Brief description of the research question and approach.
-- **Project C:** Brief description of the research question and approach.
