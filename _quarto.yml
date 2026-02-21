@@ -5,7 +5,6 @@ project:
 website:
   title: "Yanyu Li"
   description: "Speech perception | Prosody | Experimental methods"
-  site-url: "https://yanyu-li.github.io/yanyuli/"
   navbar:
     left:
       - text: "Welcome"
@@ -32,4 +31,5 @@ format:
       light: Flatly
       dark:  Darkly
     toc: false
+
 
