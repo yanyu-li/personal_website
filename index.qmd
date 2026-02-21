@@ -1,6 +1,6 @@
 ---
 title: "Yanyu Li"
-image: "portrait1.jpg"
+image: "assets/portrait1.jpg"
 about:
   template: jolla
   id: hero-heading
@@ -79,6 +79,7 @@ My hobbies live in gentle contrast. Some days, I take a book and board a train t
 At the heart of it all is a simple impulse: a genuine curiosity about the world. I want to experience more, understand more, and remain open to whatever the next page, path, or song might bring.
 
 :::
+
 
 
 
