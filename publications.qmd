@@ -3,9 +3,9 @@
 - Coretta, S., Casillas, J. V., …, [Li, Y]{.underline}, ... & Wood, A. (2023). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses. *Advances in Methods and Practices in Psychological Science*, 6(3). 
 [doi](https://doi.org/10.1177/25152459231162567) [pdf](assets/paper/many_speech.pdf)
 
-- Chen, S., [Li, Y.]{.underline}, Arche, M.J., Monks, C.P., & White L. (third-round revision, Studies in Second Language Acquisition). *Teaching Mandarin tones to English speakers via intonational analogy*.
+- [Li, Y.]{.underline}, Hoogland, D., Duncan, D., & Zhang, C. (Accepted, *Linguistic Vanguard*). Gamification in Phonetic Data Collection: Accent Recognition of Northeast England Regions.
 
-- [Li, Y.]{.underline}, Hoogland, D., Duncan, D., & Zhang, C. (first-round revision, *Linguistic Vanguard*). Gamification in Phonetic Data Collection: Accent Recognition of Northeast England Regions.
+- Chen, S., [Li, Y.]{.underline}, Arche, M.J., Monks, C.P., & White L. (third-round revision, Studies in Second Language Acquisition). *Teaching Mandarin tones to English speakers via intonational analogy*.
 
 - [Li, Y.]{.underline}, White, L., & Khattab, G. (submitted to Bilingualism: *Language and Cognition*). The Effect of Incremental Cue Training in Phonetic Learning of Lexical Tones.
 
